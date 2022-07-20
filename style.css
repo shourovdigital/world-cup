@@ -157,6 +157,7 @@ article {
 /* footer section styling */
 footer {
   background-color: black;
+  margin: 0 auto;
 }
 
 footer h1 {
