@@ -371,3 +371,12 @@ hr {
     text-align: center;
   }
 }
+
+/* upcoming styling */
+.flag a {
+  border: none;
+}
+.match {
+  height: 220px;
+  text-align: center;
+}
